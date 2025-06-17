@@ -110,10 +110,4 @@ A Django-based web application for managing employee and department records. Adm
 4. Push: `git push origin feature/your-feature`.
 5. Open a pull request.
 
-## License
 
-MIT License. See [LICENSE](LICENSE) for details.
-
-## Contact
-
-For support, open a GitHub issue or email [your-email@example.com].
